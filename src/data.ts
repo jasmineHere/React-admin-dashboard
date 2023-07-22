@@ -114,3 +114,56 @@ export const menu = [
         ],
     },
 ]
+
+export const topDealUsers = [
+    {
+        id: 1,
+        img: "https://images.pexels.com/photos/3542148/pexels-photo-3542148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        username: "Emma Watson",
+        email: "Emma@gmail.com",
+        amount: "4.788",
+    },
+    {
+        id: 2,
+        img: "https://images.pexels.com/photos/3987107/pexels-photo-3987107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        username: "Shraddha Gujral",
+        email: "shraddha@gmail.com",
+        amount: "8.256",
+    },
+    {
+        id: 3,
+        img: "https://images.pexels.com/photos/3732652/pexels-photo-3732652.jpeg?auto=compress&cs=tinysrgb&w=800",
+        username: "Shaylyn Armstrong",
+        email: "shaylyn@gmail.com",
+        amount: "4.788",
+    },
+    {
+        id: 4,
+        img: "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=800",
+        username: "Cynthia Ebere",
+        email: "cynthia@gmail.com",
+        amount: "9.345",
+    },
+    {
+        id: 5,
+        img: "https://images.pexels.com/photos/837140/pexels-photo-837140.jpeg?auto=compress&cs=tinysrgb&w=800",
+        username: "Cillian Murphy",
+        email: "cillian@gmail.com",
+        amount: "3.208",
+    },
+    {
+        id: 6,
+        img: "https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg?auto=compress&cs=tinysrgb&w=800",
+        username: "Emily Blunt",
+        email: "emily@gmail.com",
+        amount: "7.125",
+    },
+    {
+        id: 7,
+        img: "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg?auto=compress&cs=tinysrgb&w=800",
+        username: "Chris Hemsworth",
+        email: "chris@gmail.com",
+        amount: "2.567",
+    },
+    ]
+    
